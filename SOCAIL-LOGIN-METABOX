@@ -1,0 +1,45 @@
+ <div class="row">
+            <div class="card col-md-12">
+                <div class="card-header card-header-icon" data-background-color="">
+                    <i class="fa fa-sign-in fa-" aria-hidden="true"></i>
+                </div>
+                <div class="card-content">
+                    <h4 class="card-title">LEADER CONECT</h4>
+                    <h6>METABOX INFO</h6>
+                </div>
+                <div class="col-md-3">
+                    <button class="btn btn-social btn-fill btn-google">
+                        <i class="fa fa-google"></i> sign in with google
+                        <div class="ripple-container"></div>
+                    </button>
+                  </div>
+
+                  <div class="col-md-3">
+
+                    <button class="btn btn-social btn-fill btn-facebook">
+                        <i class="fa fa-facebook"></i> sign in with facebook
+                        <div class="ripple-container"></div>
+                    </button>
+
+                  </div>
+
+                    <div class="col-md-3">
+
+                    <button class="btn btn-social btn-fill btn-twitter">
+                         <i class="fa fa-twitter"></i> Connect with Twitter
+                          <div class="ripple-container"></div></button>
+
+                        </div>
+
+                          <div class="col-md-3">
+
+                    <button class="btn btn-social btn-fill btn-linkedin">
+                        <i class="fa fa-linkedin"></i> sign in with linkdin
+                        <div class="ripple-container"></div>
+                    </button>
+                  </div>
+
+        </div>
+    </div>
+    
+    <!-- END SOCAIL MEDIA LOGIN METABOX-->
