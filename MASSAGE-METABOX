@@ -1,0 +1,57 @@
+
+    <!-- STRAT MASSAGE METABOX-->
+ <div class="container-fluid">
+<div class="row">
+        <div class="card card-profile">
+            <div class="card-avatar">
+                <a href="#pablo">
+                    <img class="img" src="default-avatar.png">
+                </a>
+            </div>
+            <div class="card-content">
+                <h6 class="category text-gray">CEO @ WPWITH.US</h6>
+                <h4 class="card-title">OHEV ZION</h4>
+
+                <div class="form-group">
+                    <label>SEND MASSAGE TO OHEV</label>
+                    <div class="form-group label-floating is-empty">
+
+                        <textarea class="form-control" rows="5"></textarea>
+                    </div>
+
+                    <div class="form-footer">
+
+                    </div>
+                    <div class="row">
+
+                        <div class="col-sm-12">
+
+
+                          <div class="checkbox checkbox-inline">
+                                                                              <label>
+                                                                                  <input type="checkbox" name="optionsCheckboxes">MAIL
+                                                                              </label>
+                                                                          </div>
+                                                                          <div class="checkbox checkbox-inline">
+                                                    <label>
+                                                        <input type="checkbox" name="optionsCheckboxes">SMS
+                                                    </label>
+                                                </div>
+                                                <div class="checkbox checkbox-inline">
+                                                    <label>
+                                                        <input type="checkbox" name="optionsCheckboxes">CALL
+                                                    </label>
+                                                </div>
+
+                         </div>
+                        </div>
+                    </div>
+                    <button class="btn btn-primary btn-sm"> SEND</i>
+
+                    </button>
+
+                </div>
+            </div>
+        </div>    <!-- END  MASSAGE METABOX ROW-->
+
+    </div><!-- END MASSAGE METABOX CONTAINER-->
