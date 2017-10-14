@@ -1,0 +1,64 @@
+
+<ul class="timeline">
+<li class="timeline-inverted">
+<div class="timeline-badge danger">
+<i class="fa fa-user-circle-o" aria-hidden="true"></i>
+</div>
+<div class="timeline-panel">
+<div class="timeline-heading">
+<span class="label label-danger">I NEED MY PSD FOR LEADER</span>
+<span class="label label-success">OHEV ZION</span>
+<h6>
+<i class="fa fa-clock-o" aria-hidden="true"></i>  22.10.2017 21.38 PM
+</h6>
+</div>
+<div class="timeline-body">
+<p>Wifey made the best Father's Day meal ever. So thankful so happy so blessed.
+ Thank you for making my family We just had fun with the “future” theme !!! It was a fun night all together ...
+ The always rude Kanye Show at 2am Sold Out Famous viewing @ Figueroa and 12th in downtown.</p>
+</div>
+
+                                                <!-- Button trigger modal -->
+<button type="button" class="btn btn-primary btn-sm" data-toggle="modal" data-target="#exampleModalLong">REPLAY</button>
+<button type="button" class="btn btn-primary btn-sm" data-toggle="modal" data-target="#exampleModalLong">REPLAY ALL</button>
+<button type="button" class="btn btn-primary btn-sm" data-toggle="modal" data-target="#exampleModalLong">FORWARD</button>
+
+<!-- Modal -->
+<div class="modal fade" id="exampleModalLong" tabindex="-1" role="dialog" aria-labelledby="exampleModalLongTitle" aria-hidden="true">
+<div class="modal-dialog" role="document">
+<div class="modal-content">
+  <div class="modal-header">
+REPLAY TO : <span class="label label-success">OHEV ZION</span>  </div>
+  <div class="modal-body">
+    <div class="form-group">
+    <div class="form-group is-empty">
+
+        <textarea class="form-control" rows="5"></textarea>
+    <span class="material-input"></span><span class="material-input"></span></div>
+<button class="btn btn-primary btn-sm">SEND<div class="ripple-container"></div></button>
+
+
+
+ </div>
+  </div>
+
+</div>
+</div>
+</div>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <div class="timeline-badge success">
+                                                <i class="material-icons">extension</i>
+                                            </div>
+                                            <div class="timeline-panel">
+                                                <div class="timeline-heading">
+                                                    <span class="label label-success">Another One</span>
+                                                </div>
+                                                <div class="timeline-body">
+                                                    <p>Thank God for the support of my wife and real friends. I also wanted to point out that it’s the first album to go number 1 off of streaming!!! I love you Ellen and also my number one design rule of anything I do from shoes to music to homes is that Kim has to like it....</p>
+                                                </div>
+                                            </div>
+                                        </li>
+
+                                    </ul>
