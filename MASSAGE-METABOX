@@ -1,6 +1,3 @@
-
-    <!-- STRAT MASSAGE METABOX-->
- <div class="container-fluid">
 <div class="row">
         <div class="card card-profile">
             <div class="card-avatar">
@@ -9,49 +6,78 @@
                 </a>
             </div>
             <div class="card-content">
+              <h5 class="category text-gray">OHEV ZION</h5>
+
                 <h6 class="category text-gray">CEO @ WPWITH.US</h6>
-                <h4 class="card-title">OHEV ZION</h4>
+
+                <h6 class="category text-purple">I NEED MY PSD FOR LEADER</h6>
+                <h6 class="category text-gray">22.10.2017 21.38 PM </h6>
+
+
+
+
+
 
                 <div class="form-group">
-                    <label>SEND MASSAGE TO OHEV</label>
+<div class="email_body">
+                  "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+
+</div>
+
+<div class="attachments">
+
+
+
+
+
+   <span class="label label-success"><i class="material-icons">attachment</i>ohev.psd</span>
+   <span class="label label-success"><i class="material-icons">attachment</i>love.dox</span>
+   <span class="label label-successt"><i class="material-icons">attachment</i>ram-and-ohev-zion-live.mp3</span>
+
+
+
+ </div>
                     <div class="form-group label-floating is-empty">
 
-                        <textarea class="form-control" rows="5"></textarea>
-                    </div>
+                        <textarea class="form-control" rows="10" placeholder="REPLAY  TO OHEV"></textarea>
+                    <span class="material-input"></span><span class="material-input"></span></div>
 
                     <div class="form-footer">
 
                     </div>
-                    <div class="row">
 
-                        <div class="col-sm-12">
-
-
-                          <div class="checkbox checkbox-inline">
-                                                                              <label>
-                                                                                  <input type="checkbox" name="optionsCheckboxes">MAIL
-                                                                              </label>
-                                                                          </div>
-                                                                          <div class="checkbox checkbox-inline">
-                                                    <label>
-                                                        <input type="checkbox" name="optionsCheckboxes">SMS
-                                                    </label>
-                                                </div>
-                                                <div class="checkbox checkbox-inline">
-                                                    <label>
-                                                        <input type="checkbox" name="optionsCheckboxes">CALL
-                                                    </label>
-                                                </div>
-
-                         </div>
-                        </div>
                     </div>
-                    <button class="btn btn-primary btn-sm"> SEND</i>
+                    <button class="btn btn-primary btn-sm"> SEND
 
                     </button>
+                    <!-- Button trigger modal -->
+                    <button type="button" class="btn btn-primary btn-sm" data-toggle="modal" data-target="#exampleModalLong">REPLAY
+                    </button>
+                    <button type="button" class="btn btn-primary btn-sm" data-toggle="modal" data-target="#exampleModalLong">REPLAY ALL</button>
+                    <button type="button" class="btn btn-primary btn-sm" data-toggle="modal" data-target="#exampleModalLong">FORWARD</button>
 
+                    <!-- Modal -->
+                    <div class="modal fade" id="exampleModalLong" tabindex="-1" role="dialog" aria-labelledby="exampleModalLongTitle" aria-hidden="true">
+                        <div class="modal-dialog" role="document">
+                            <div class="modal-content">
+                                <div class="modal-header">
+                                    REPLAY TO : <span class="label label-success">OHEV ZION</span> </div>
+                                <div class="modal-body">
+                                    <div class="form-group">
+                                        <div class="form-group is-empty">
+
+                                            <textarea class="form-control" rows="5"></textarea>
+                                            <span class="material-input"></span><span class="material-input"></span><span class="material-input"></span></div>
+                                        <button class="btn btn-primary btn-sm">SEND
+                                            <div class="ripple-container"></div>
+                                        </button>
+
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
-        </div>    <!-- END  MASSAGE METABOX ROW-->
-
-    </div><!-- END MASSAGE METABOX CONTAINER-->
+        </div>
